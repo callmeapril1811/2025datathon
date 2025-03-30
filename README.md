@@ -77,22 +77,26 @@ After training and evaluating the models, several visualizations are generated t
 
 ### Feature Importance Plot
 A bar chart ranking the top 10 features used by the XGBoost classifier.
+
 *How to Interpret:*
 Features with higher bars are more influential in the model’s decisions.
 
 ### Confusion Matrix Plot
 What It Shows:
 A heatmap comparing actual risk segments to predicted ones.
+
 *How to Interpret:*
 Diagonal cells represent correct predictions; off-diagonals indicate misclassifications.
 
 ### Actual vs. Predicted Scatter Plot (Regression)
 A scatter plot of actual credit line increases versus predicted values with a 45-degree reference line.
+
 *How to Interpret:*
 Points near the line indicate accurate predictions; deviations show areas for improvement.
 
 ### Pie Chart of Account Risk Distribution
 A pie chart displaying the percentage distribution of accounts across risk segments.
+
 *How to Interpret:*
 Use the percentages to understand the balance of low risk, moderate risk, no increase, and high risk accounts.
 
