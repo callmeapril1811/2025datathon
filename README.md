@@ -106,4 +106,4 @@ Run the data cleaning script:
 $python cleaning.py
 
 Once the cleaned files are saved, run each section in the modeling script:
-Model.ipynb
+model.ipynb
