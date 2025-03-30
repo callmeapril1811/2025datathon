@@ -72,7 +72,7 @@ Classification Accuracy: 0.89 Classification Report: precision recall f1-score s
 accuracy                           0.89     41000
 Regression RMSE: 125.67
 
-**Plot Output:**
+## 3. Plot Output:
 After training and evaluating the models, several visualizations are generated to help you understand the performance and insights from the data. Below is a description of each plot and what you can learn from it.
 
 ### Feature Importance Plot
@@ -97,7 +97,7 @@ A pie chart displaying the percentage distribution of accounts across risk segme
 Use the percentages to understand the balance of low risk, moderate risk, no increase, and high risk accounts.
 
 
-## How to Run
+## 4. How to Run
 Run the data cleaning script:
 $python cleaning.py
 
